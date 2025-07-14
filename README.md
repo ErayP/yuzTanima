@@ -18,5 +18,5 @@ Bu proje, **face_recognition** kütüphanesini kullanarak **özellik vektörleri
 
 ```bash
 git clone https://github.com/kullaniciAdi/yuz-tanima-projesi.git
-cd yuz-tanima-projesi
+cd yuzTanima
 pip install -r requirements.txt
